@@ -9,6 +9,6 @@
     <p>-CSS<p>
     <p>-JavaScript<p>
   
-  <img src="">
+  <img src="https://github.com/akamezerax/projeto-pokedex/blob/master/src/imagens/pokedex-project.jpg?raw=true">
   
  
